@@ -1,6 +1,6 @@
-# 🗿 Olá, eu sou o Guilherme Duarte!
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/refs/heads/master/images/welcome.png" alt="WELCOME TO MY GITHUB PROFILE" min-width="900px" max-width="900px" width="900px" align="center">
 
-### 🚀 Desenvolvedor em Formação | Tecnologia & Inovação
+<h1 align="center">🗿​ Olá, sou Guilherme Duarte! 🗿​</h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/guimovie)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gduartedasilva3@gmail.com)
@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tecnologias e Ferramentas
 
 ### Linguagens
 
